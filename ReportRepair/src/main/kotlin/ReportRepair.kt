@@ -16,9 +16,17 @@ class ReportRepair {
         throw IllegalArgumentException("List does not have pair that sums to $YEAR")
     }
 
+    fun repair2(numbers: List<Int>): Int {
+        val t = threeSum(numbers, YEAR)
+        if (t != null) {
+            return t[0] * t[1] * t[2]
+        }
+        throw IllegalArgumentException("List does not have triple that sums to $YEAR")
+    }
+
     // Given a list of numbers, returns two numbers in the list that sum to target
     // Returns null if no matching pair
-    fun twoSum(numbers: List<Int>, target: Int): Pair<Int, Int>? {
+    private fun twoSum(numbers: List<Int>, target: Int): Pair<Int, Int>? {
         val (ans, _) = numbers.fold((null as Int? to mutableSetOf<Int>())){ (ans, seen), element ->
             when {
                 ans != null -> (ans to seen)
@@ -35,16 +43,7 @@ class ReportRepair {
         return null
     }
 
-
-    fun repair2(numbers: List<Int>): Int {
-        val t = threeSum(numbers, YEAR)
-        if (t != null) {
-            return t[0] * t[1] * t[2]
-        }
-        throw IllegalArgumentException("List does not have triple that sums to $YEAR")
-    }
-
-    fun threeSum(numbers: List<Int>, target: Int) : List<Int>?{
+    private fun threeSum(numbers: List<Int>, target: Int) : List<Int>?{
         val ans = numbers.foldIndexed(null as List<Int>?){idx, ans, element ->
             val twoSumAns = twoSum(numbers.drop(idx+1), target-numbers[idx])
             when {
