@@ -3,11 +3,11 @@ import io.kotest.core.spec.style.DescribeSpec
 import io.kotest.matchers.shouldBe
 import java.lang.IllegalArgumentException
 
-class ReportRepairTest: DescribeSpec({
+class ReportRepairTest : DescribeSpec({
     val reportRepair = ReportRepair()
-    
+
     describe("reportRepair") {
-        context("When given no numbers") {
+        context("Given no numbers") {
             it("throws exception") {
                 shouldThrow<IllegalArgumentException> {
                     reportRepair.repair(listOf())
@@ -16,11 +16,11 @@ class ReportRepairTest: DescribeSpec({
         }
         context("Answer is two of the same number") {
             it("returns product") {
-                val actual = reportRepair.repair(listOf(1010,1010))
+                val actual = reportRepair.repair(listOf(1010, 1010))
                 actual shouldBe 1020100
             }
         }
-        context("Should not return element matched with itself") {
+        context("Only one number") {
             it("throws exception") {
                 shouldThrow<IllegalArgumentException> {
                     reportRepair.repair(listOf(1010))
@@ -32,7 +32,7 @@ class ReportRepairTest: DescribeSpec({
                 val actual = reportRepair.repair(listOf(-1, -2, -3, 2018, 2019, 2020, 2021))
                 actual shouldBe -2021
             }
-            it ("returns product") {
+            it("returns product") {
                 val actual = reportRepair.repair(listOf(2000, -2000, 20))
                 actual shouldBe 40000
             }
@@ -73,5 +73,4 @@ class ReportRepairTest: DescribeSpec({
             }
         }
     }
-
 })
