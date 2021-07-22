@@ -17,9 +17,9 @@ tasks.withType<Test> {
 
 dependencies {
     testImplementation(kotlin("test"))
-    testImplementation("io.kotest:kotest-runner-junit5:4.6.0") // for kotest framework
-    testImplementation("io.kotest:kotest-assertions-core:4.6.0") // for kotest core jvm assertions
-    testImplementation("io.kotest:kotest-property:4.6.0") // for kotest property test
+    testImplementation("io.kotest:kotest-runner-junit5:4.6.1") // for kotest framework
+    testImplementation("io.kotest:kotest-assertions-core:4.6.1") // for kotest core jvm assertions
+    testImplementation("io.kotest:kotest-property:4.6.1") // for kotest property test
 }
 
 tasks.test {

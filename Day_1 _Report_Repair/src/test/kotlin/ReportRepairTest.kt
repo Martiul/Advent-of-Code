@@ -1,6 +1,11 @@
 import io.kotest.assertions.throwables.shouldThrow
+import io.kotest.core.datatest.forAll
 import io.kotest.core.spec.style.DescribeSpec
 import io.kotest.matchers.shouldBe
+import io.kotest.property.Arb
+import io.kotest.property.arbitrary.int
+import io.kotest.property.arbitrary.list
+import io.kotest.property.arbitrary.next
 import java.lang.IllegalArgumentException
 
 class ReportRepairTest : DescribeSpec({
@@ -43,6 +48,26 @@ class ReportRepairTest : DescribeSpec({
                 actual shouldBe 0
             }
         }
+
+        // Properties testing?
+        context("List of one element") {
+            it("Throws exception") {
+                forAll(Arb.int()) { n ->
+                    shouldThrow<IllegalArgumentException> {
+                        reportRepair.repair(listOf(n.next()))
+                    }
+                }
+            }
+        }
+        context("List of two matching elements") {
+            it("Returns product") {
+                forAll(Arb.int()) { n ->
+                    val next = n.next()
+                    val expected = next * (2020 - next)
+                    reportRepair.repair(listOf(next, 2020 - next)) shouldBe expected
+                }
+            }
+        }
     }
 
     describe("reportRepair2") {
@@ -70,6 +95,16 @@ class ReportRepairTest : DescribeSpec({
             it("returns product") {
                 val actual = reportRepair.repair2(listOf(100, 200, 300, 2, 2, 2016, 3000))
                 actual shouldBe 8064
+            }
+        }
+        context("First three elements match") {
+            it("Returns product") {
+                forAll(Arb.list(Arb.int(), 2..50)) { n ->
+                    val next = n.next()
+                    val completer = 2020 - next[0] - next[1]
+                    val expected = completer * next[0] * next[1]
+                    reportRepair.repair2(listOf(completer) + next) shouldBe expected
+                }
             }
         }
     }
