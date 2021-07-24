@@ -3,6 +3,7 @@ import java.io.File
 class PasswordPhilosophy {
     private val regex = """(\d+)-(\d+) (\w): (.*)""".toRegex()
     fun passwordPhilosophy(lines: List<String>): Int {
+        require(lines.all { regex.matches(it) })
         return lines.filter { line ->
             regex.find(line)
                 ?.let {
@@ -14,6 +15,7 @@ class PasswordPhilosophy {
     }
 
     fun passwordPhilosophy2(lines: List<String>): Int {
+        require(lines.all { regex.matches(it) })
         return lines.filter { line ->
             regex.find(line)
                 ?.let {
@@ -23,7 +25,7 @@ class PasswordPhilosophy {
                     val password = it.groupValues[4]
 
                     (high in low until password.length) &&
-                        (password[low] != password[high]) && (password[low] == charToFind || password[high] == charToFind)
+                        ((password[low] == charToFind) xor (password[high] == charToFind))
                 }
                 ?: false
         }.count()

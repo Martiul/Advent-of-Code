@@ -35,7 +35,7 @@ class BinaryBoarding {
     private fun binarySearchStep(p: Pair<Int, Int>, lower: Boolean): Pair<Int, Int> {
         // fun(low, high)
         // F: fun(low, floor(mid))
-        // B: fun(ceil(mid, high)
+        // B: fun(ceil(mid), high)
         val (low, high) = p
         val mid = low + (high - low) / 2.0
         if (lower) {

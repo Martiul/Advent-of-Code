@@ -17,7 +17,7 @@ class TobogganTrajectory {
     fun countTrees(grid: List<String>, dy: Int, dx: Int): Long {
         return grid
             .filterIndexed { idx, _ -> idx % dy == 0 }
-            .filterIndexed { idx, line -> line[(idx*dx) % line.length] == '#'}
+            .filterIndexed { idx, line -> line[(idx * dx) % line.length] == '#' }
             .count()
             .toLong()
     }
