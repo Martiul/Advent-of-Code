@@ -1,8 +1,10 @@
 import io.kotest.core.spec.style.DescribeSpec
 import io.kotest.matchers.shouldBe
 import io.kotest.property.Arb
+import io.kotest.property.arbitrary.list
 import io.kotest.property.arbitrary.map
 import io.kotest.property.arbitrary.positiveInts
+import io.kotest.property.arbitrary.stringPattern
 import io.kotest.property.checkAll
 import java.io.File
 
@@ -22,6 +24,7 @@ class TobogganTrajectoryTest : DescribeSpec({
                 }
             }
         }
+
         context("Grid of only trees") {
             it("Returns height of grid") {
                 checkAll(Arb.positiveInts(100).map { ("#".repeat(it) + "\n").repeat(it) }) { g ->
@@ -30,13 +33,23 @@ class TobogganTrajectoryTest : DescribeSpec({
                 }
             }
         }
+
+        context("Vertical grid") {
+            it("Returns number of trees in the entire grid") {
+                checkAll(Arb.list(Arb.stringPattern("[.#]"))) { g ->
+                    t.tobogganTrajectory(g) shouldBe g.count { l -> l == "#" }
+                }
+            }
+        }
     }
+
     describe("Toboggan Trajectory 2") {
         context("Sample test") {
             val input: List<String> = File("input.txt").readLines()
-            val actual = t.tobogganTrajectory(input)
+            val actual = t.tobogganTrajectory2(input)
             actual shouldBe 2655892800
         }
+
         context("Grid of no trees") {
             it("Returns 0") {
                 checkAll(Arb.positiveInts(100).map { (".".repeat(it) + "\n").repeat(it) }) { g ->
@@ -44,6 +57,7 @@ class TobogganTrajectoryTest : DescribeSpec({
                 }
             }
         }
+
         context("Grid of only trees") {
             it("Returns height of grid") {
                 checkAll(Arb.positiveInts(100).map { ("#".repeat(it) + "\n").repeat(it) }) { g ->

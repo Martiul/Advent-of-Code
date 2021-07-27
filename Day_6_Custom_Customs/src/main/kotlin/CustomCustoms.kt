@@ -2,12 +2,13 @@ import java.io.File
 
 class CustomCustoms {
     fun customCustoms(input: List<String>): Int {
-        return parseGroups(input).map { it.countUniqueChars() }.sum()
+        return parseGroups(input).sumOf { it.countUniqueChars() }
     }
     fun customCustoms2(input: List<String>): Int {
-        return parseGroups(input).map { it.countCommonChars() }.sum()
+        return parseGroups(input).sumOf { it.countCommonChars() }
     }
 
+    // Groups are separated by empty lines
     private fun parseGroups(input: List<String>): List<Group> {
         return (input + "").fold(listOf<Group>() to listOf<String>()) { (groups, groupInfo), line ->
             when (line) {

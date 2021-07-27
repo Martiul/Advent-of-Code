@@ -8,21 +8,30 @@ class BinaryBoarding {
         const val C_HIGH = 7
     }
 
+    // Returns the maximum seat ID of the codes in the input
     fun binaryBoarding(input: List<String>): Int {
+        validateInput(input)
         return input.fold(0) { max, line -> maxOf(max, getSeatID(line)) }
     }
     fun binaryBoarding2(input: List<String>): Int {
+        validateInput(input)
         val greatestID = binaryBoarding(input)
-        val notSeen = input.map { getSeatID(it) }.fold((8..greatestID).toSet()){ notSeen, seatID -> notSeen - seatID}
-        return notSeen.drop(1).first { !(notSeen.contains(it-1) || notSeen.contains(it+1))}
+        val notSeen = input.map { getSeatID(it) }.fold((8..greatestID).toSet()) { notSeen, seatID -> notSeen - seatID }
+        return notSeen.drop(1).first { !(notSeen.contains(it-1) || notSeen.contains(it+1)) }
+    }
+
+    private fun validateInput(input: List<String>) {
+        require(
+            input.isNotEmpty() &&
+                input.all {
+                    it.length == 10 &&
+                        it.take(7).all { it == 'B' || it == 'F' } &&
+                        it.takeLast(3).all { it == 'R' || it == 'L' }
+                }
+        )
     }
 
     internal fun getSeatID(code: String): Int {
-        require(
-            code.length == 10 &&
-                code.take(7).all { it == 'F' || it == 'B' } &&
-                code.takeLast(3).all { it == 'L' || it == 'R' }
-        )
         val row = code.take(7)
             .fold(R_LOW to R_HIGH) { p, next -> binarySearchStep(p, next == 'F') }
             .first

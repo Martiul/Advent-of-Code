@@ -20,7 +20,7 @@ class PassportProcessing {
     }
 }
 
-class Passport(private val data: Map<String, String>) {
+class Passport(val data: Map<String, String>) {
 
     fun isValid(): Boolean {
         return PassportFields.values().all { data.contains(it.value) }
@@ -69,6 +69,10 @@ class Passport(private val data: Map<String, String>) {
 
     private fun validPassportID(): Boolean {
         return data.getOrDefault(PassportFields.PID.value, "").matches("""\d{9}""".toRegex())
+    }
+
+    override fun toString(): String {
+        return data.toList().fold("") { acc, (k, v) -> "$acc $k:$v" }.drop(1)
     }
 }
 
