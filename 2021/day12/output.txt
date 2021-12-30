@@ -1,0 +1,14804 @@
+start
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  b
+b
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  end
+end
+Take  b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take 2 c
+c
+Take  A
+A
+Take  end
+end
+Take 2 b
+b
+Take  A
+A
+Take  c
+c
+Take  A
+A
+Take  end
